@@ -1,6 +1,4 @@
-Here is your **final professional, clean, GitHub-ready README** including badges, “from scratch” mention, status, and everything properly structured:
 
----
 
 # House Price Prediction Web Application
 
